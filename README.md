@@ -1,5 +1,3 @@
-# WebProject1-Create-Directory
-Learn how to create a Directory
+# WebProject1-Create-Menu
+Learn how to create a menu by HTML/CSS and simple JS
 
-
-this is day1 to learn how to make directory by HTML and CSS
